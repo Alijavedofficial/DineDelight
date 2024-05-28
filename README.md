@@ -4,7 +4,7 @@ DineDelight is a modern and elegant restaurant website built with React, designe
 
 ## Introduction
 
-DineDelight is a responsive and user-friendly website template tailored for restaurants, cafes, and dining establishments, offering a seamless experience for both customers and restaurant owners.
+DineDelight is a responsive and user-friendly website template tailored for restaurants, cafes, and dining establishments, offering a seamless experience for both customers and Restaurant owners.
 
 ## Features
 
